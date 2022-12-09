@@ -1,5 +1,14 @@
 
-### Olá! Eu sou o Douglas Junior 👋
+# Olá! Eu sou o Douglas Junior 👋
+
+- ### Atualmente estou no terceiro semestre do curso Técnico em Informática para Internet, ministrado pelo SENAI Luzerna.
+
+- ### Ao longo do curso aprenderemos JavaScript, Node.js, MySQL e muitas outras tecnologias: 
+
+
+- ### O curso tem como principal objetivo o desenvolvimento Web.
+
+<br>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 )](https://www.facebook.com/profile.php?id=100006770490785)
@@ -8,11 +17,12 @@
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](https://is.gd/douglasmelere)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasmelere&show_icons=true&theme=radical )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasmelere&show_icons=true&theme=radical&locale=pt-br)
 
-### Técnologias
 
-<div style="display: inline-block"><br/>
+## Technologies and Stacks  🛠
+
+<div style="display: inline-block;"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -21,4 +31,20 @@
     <img align="center" alt="SHELL SCRIPT" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
     <img align="center" alt="POWERSHELL" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white">
     <img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img align="center" alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    <img align="center" alt="CANVA" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+    <br><br>
 <div/> 
+
+## Operational Systems 💾
+
+<div style="display: inline-block"><br/>
+    <img align="center" alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+">
+    <img align="center" alt="WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img align="center" alt="ANDROID" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+    <img align="center" alt="MAC OS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
+    <img align="center" alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+    <br><br>
+<div/> 
+
