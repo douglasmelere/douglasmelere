@@ -1,12 +1,11 @@
 
 # Olá! Eu sou o Douglas Junior 👋
 
-- #### Atualmente estou no terceiro semestre do curso Técnico em Informática para Internet, ministrado pelo SENAI Luzerna.
+- 🎓 Formado no curso Técnico em Informática para Internet pelo SENAI Luzerna.
 
-- #### Ao longo do curso aprenderemos JavaScript, Node.js, MySQL e muitas outras tecnologias: 
+- 🚀 Ao longo do curso, adquiri conhecimentos em JavaScript, Node.js, MySQL e diversas outras tecnologias.
 
-
-- #### O curso tem como principal objetivo o desenvolvimento Web.
+- 💻 O foco principal do curso foi o desenvolvimento web.
 
 <br>
 
