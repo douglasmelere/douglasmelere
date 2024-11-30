@@ -1,25 +1,21 @@
-
 # Olá! Eu sou o Douglas Junior 👋
 
-- 🎓 Formado no curso Técnico em Informática para Internet pelo SENAI Luzerna.
+- 🎓 **Curso em andamento**: Engenharia de Software e Análise e Desenvolvimento de Sistemas (ADS).
+- 💻 **Formação Técnica**: Técnico em Informática para Internet.
 
-- 🚀 Ao longo do curso, adquiri conhecimentos em JavaScript, Node.js, MySQL e diversas outras tecnologias.
+- 🚀 Ao longo da minha jornada acadêmica e profissional, adquiri conhecimentos em **JavaScript**, **Node.js**, **MySQL**, **TypeScript** e diversas outras tecnologias.
 
-- 💻 O foco principal do curso foi o desenvolvimento web.
+- 🌐 **Foco principal**: Desenvolvimento Web, com ênfase em tecnologias modernas e boas práticas de programação.
 
 <br>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-)](https://www.facebook.com/profile.php?id=100006770490785)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/http_douglasjr/)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](https://is.gd/douglasmelere)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006770490785)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/http_douglasjr/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://is.gd/douglasmelere)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasmelere&show_icons=true&theme=radical&locale=pt-br)
 
-
-## Technologies and Stacks  🛠
+## 🚀 Tecnologias e Stacks 🛠
 
 <div style="display: inline-block; margin-top: 8px"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -34,13 +30,13 @@
     <img align="center" alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
     <img align="center" alt="CANVA" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
     <br><br>
-<div/> 
+</div>
 
-## Operational Systems 💾
+## 💻 Sistemas Operacionais
 
 <div style="display: inline-block"><br/>
     <img align="center" alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img align="center" alt="WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <br><br>
-<div/> 
+</div>
 
