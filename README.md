@@ -10,15 +10,15 @@
 <br>
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="mailto:douglasmelere@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:douglasmelere@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/douglas-junior-22840b2a4/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-junior-22840b2a4/" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
+  <a href="wa.me/+5549999330101" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=wa.me/+5549999330101" alt="WhatsApp"/></a>
-  <a href="#" title="Facebook">
+  <a href="https://www.facebook.com/profile.php?id=100006770490785" title="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006770490785" alt="Facebook"/></a>
-  <a href="#" title="Instagram">
+  <a href="https://www.instagram.com/douglasmelere" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/douglasmelere alt="Instagram"/></a>
 </p>
 
