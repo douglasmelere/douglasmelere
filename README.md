@@ -1,4 +1,6 @@
-# Olá! Eu sou o Douglas Junior 👋
+![](https://komarev.com/ghpvc/?username=douglasmelere&color=006bed)
+
+# Sobre mim 
 
 - 🎓 **Curso em andamento**: Engenharia de Software e Análise e Desenvolvimento de Sistemas (ADS).
 - 💻 **Formação Técnica**: Técnico em Informática para Internet.
