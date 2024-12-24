@@ -42,7 +42,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/mD3zkj8F/pml.png"/>](https://pagueminhaluz.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/MpcnVq9w/pml-enhanced.png"/>](https://pagueminhaluz.com.br/)
 
 **Software Engineer** \
 [**Pague Minha Luz**](https://pagueminhaluz.com.br/) • Full-time \
