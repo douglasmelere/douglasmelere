@@ -41,10 +41,9 @@
 
 ## 💻 Sistemas Operacionais
 
-<div style="display: inline-block"><br/>
-    <img align="center" alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img align="center" alt="WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-    <br><br>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" title="Windows" />
+   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.pmg" alt="Linux" title="Linux" />
 </div>
 
 ### Experiência de trabalho
