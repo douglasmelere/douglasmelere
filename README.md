@@ -59,8 +59,6 @@ Linguagens & Tecnologias: `Node.js`, `TypeScript`, `JavaScript`, `React`, `MySQL
 Projetos em destaque: [Website](https://pagueminhaluz.com.br/)
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/douglasmelere/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
