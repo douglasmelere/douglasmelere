@@ -9,7 +9,7 @@
 
 ### 🖥️ **Sistemas Operacionais**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,macos" />
 </div>
 
 ---
