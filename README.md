@@ -148,7 +148,9 @@
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
-  <img src="https://profile-counter.glitch.me/douglasmelere/count.svg" alt="Número de visitantes no perfil" />
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=douglasmelere&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  </p>
 </div>
 
 <div align="center">
