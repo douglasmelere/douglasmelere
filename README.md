@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglasmelere&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=douglasmelere&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 </div>
 
 ---
