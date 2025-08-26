@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=douglasmelere&theme=dark&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-nine-theta.vercel.app/?user=douglasmelere&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 </div>
 
 ---
