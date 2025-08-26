@@ -69,10 +69,6 @@ const douglas = {
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasmelere&layout=compact&hide_border=true&title_color=F85D7F&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglasmelere&theme=highcontrast&hide_border=true&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F85D7F&sideLabels=ffffff&dates=ffffff&background=0D1117" />
-</div>
-
 <!-- Gráfico de Contribuições -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=douglasmelere&bg_color=0d1117&color=F85D7F&line=F85D7F&point=ff9494&area=true&hide_border=true" />
