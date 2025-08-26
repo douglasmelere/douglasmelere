@@ -70,12 +70,12 @@ const douglas = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=douglasmelere&theme=highcontrast&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F85D7F&sideLabels=ffffff&dates=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglasmelere&theme=highcontrast&hide_border=true&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F85D7F&sideLabels=ffffff&dates=ffffff&background=0D1117" />
 </div>
 
-<!-- Trophy Stats -->
+<!-- Gráfico de Contribuições -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=douglasmelere&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=douglasmelere&bg_color=0d1117&color=F85D7F&line=F85D7F&point=ff9494&area=true&hide_border=true" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
