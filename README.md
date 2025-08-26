@@ -23,9 +23,9 @@
 
 ## 🎯 **About Me**
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif" />
-
-<br>
+<table align="center" border="0">
+  <tr>
+    <td width="50%">
 
 ```javascript
 const douglas = {
@@ -35,20 +35,28 @@ const douglas = {
   
   education: {
     completed: ["ADS", "Técnico em Informática"],
-    inProgress: ["Engenharia de Software", "Pós em Data Science & AI"]
+    inProgress: [
+      "Engenharia de Software", 
+      "Pós em Data Science & AI"
+    ]
   },
   
   currentFocus: {
     work: "Liderando inovação em energia renovável",
-    tech: ["React", "Node.js", "TypeScript", "Machine Learning"],
-    goals: ["Escalar sistemas", "Aplicar IA no setor energético"]
+    tech: ["React", "Node.js", "TypeScript", "ML"],
+    goals: ["Escalar sistemas", "Aplicar IA"]
   },
   
-  funFact: "Alcancei o cargo de CTO aos 20 anos! 🚀"
+  funFact: "CTO aos 20 anos! 🚀"
 };
 ```
 
-<br clear="right"/>
+  </td>
+  <td width="50%">
+    <img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif" />
+  </td>
+  </tr>
+</table>
 
 <!-- Estatísticas Animadas -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
